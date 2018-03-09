@@ -1,0 +1,79 @@
+15783:C 08 Mar 15:37:55.490 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15783:C 08 Mar 15:37:55.490 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=15783, just started
+15783:C 08 Mar 15:37:55.490 # Configuration loaded
+15784:M 08 Mar 15:37:55.491 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+15784:M 08 Mar 15:37:55.491 # Creating Server TCP listening socket *:6379: bind: Address already in use
+15807:C 08 Mar 15:38:46.110 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15807:C 08 Mar 15:38:46.149 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=15807, just started
+15807:C 08 Mar 15:38:46.149 # Configuration loaded
+15808:M 08 Mar 15:38:46.150 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+15808:M 08 Mar 15:38:46.151 # Creating Server TCP listening socket *:6379: bind: Address already in use
+16506:C 08 Mar 15:55:46.772 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16506:C 08 Mar 15:55:46.787 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=16506, just started
+16506:C 08 Mar 15:55:46.787 # Configuration loaded
+16507:M 08 Mar 15:55:46.788 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+16507:M 08 Mar 15:55:46.789 # Creating Server TCP listening socket *:6379: bind: Address already in use
+16544:C 08 Mar 15:57:54.520 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16544:C 08 Mar 15:57:54.520 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=16544, just started
+16544:C 08 Mar 15:57:54.520 # Configuration loaded
+16545:M 08 Mar 15:57:54.521 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+16545:M 08 Mar 15:57:54.521 # Creating Server TCP listening socket *:6379: bind: Address already in use
+16578:C 08 Mar 15:58:31.072 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16578:C 08 Mar 15:58:31.072 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=16578, just started
+16578:C 08 Mar 15:58:31.072 # Configuration loaded
+16579:M 08 Mar 15:58:31.073 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.6 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 16579
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+16579:M 08 Mar 15:58:31.112 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+16579:M 08 Mar 15:58:31.112 # Server initialized
+16579:M 08 Mar 15:58:31.112 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+16579:M 08 Mar 15:58:31.112 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+16579:M 08 Mar 15:58:31.112 * Ready to accept connections
+23835:C 08 Mar 23:56:17.458 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+23835:C 08 Mar 23:56:17.485 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=23835, just started
+23835:C 08 Mar 23:56:17.486 # Configuration loaded
+23836:M 08 Mar 23:56:17.487 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+23836:M 08 Mar 23:56:17.488 # Creating Server TCP listening socket *:6379: bind: Address already in use
+2732:C 09 Mar 09:23:22.363 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2732:C 09 Mar 09:23:22.690 # Redis version=4.0.6, bits=64, commit=00000000, modified=0, pid=2732, just started
+2732:C 09 Mar 09:23:22.690 # Configuration loaded
+2733:M 09 Mar 09:23:22.691 * Increased maximum number of open files to 10032 (it was originally set to 5000).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.6 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 2733
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+2733:M 09 Mar 09:23:22.843 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+2733:M 09 Mar 09:23:22.843 # Server initialized
+2733:M 09 Mar 09:23:22.843 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2733:M 09 Mar 09:23:22.843 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+2733:M 09 Mar 09:23:22.843 * Ready to accept connections
